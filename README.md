@@ -4,7 +4,7 @@ Trained data for Tesseract with LetsGoDigital font
 
 ----------------------
 
-With this trained data, you should do a previus image processing (just in case, I've done it through OpenCV):
+With this trained data, you should do a previous image processing to make it work correctly. I've done it through OpenCV:
 
 - First step. Convert the image to Black&White
 - Second step. Apply to the image a Gaussian Blur
